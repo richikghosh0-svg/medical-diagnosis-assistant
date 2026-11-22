@@ -1,4 +1,8 @@
 # Medical Diagnosis Assistant
+# Medical Diagnosis Assistant
+🔗 **Live demo:** https://medical-diagnosis-assistant-iedpcupdr5ujpya748xdm7.streamlit.app/
+
+> ⚠️ Educational project, not a substitute for professional medical advice.
 
 Educational decision-support demo: chest X-ray classification (CNN, transfer learning),
 symptom-based disease prediction (Random Forest), PDF reports, Streamlit UI.
