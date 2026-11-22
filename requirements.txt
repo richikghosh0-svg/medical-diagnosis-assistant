@@ -6,4 +6,4 @@ joblib
 pillow
 streamlit
 fpdf2
-opencv-python
+opencv-python-headless
