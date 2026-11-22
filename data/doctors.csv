@@ -1,0 +1,12 @@
+name,specialty,city,experience_years,rating,fee,languages,available
+Dr. A. Sen,Pulmonologist,Kolkata,15,4.7,800,English;Bengali;Hindi,Yes
+Dr. R. Mehta,General Physician,Kolkata,10,4.4,500,English;Hindi,Yes
+Dr. S. Banerjee,Dermatologist,Kolkata,12,4.8,900,English;Bengali,Yes
+Dr. P. Roy,Oncologist,Kolkata,20,4.9,1500,English;Bengali;Hindi,No
+Dr. N. Iyer,Neurologist,Kolkata,14,4.6,1000,English;Hindi,Yes
+Dr. K. Das,Endocrinologist,Kolkata,11,4.5,900,English;Bengali,Yes
+Dr. L. Sharma,Dermatologist,Delhi,9,4.3,800,English;Hindi,Yes
+Dr. V. Rao,Pulmonologist,Delhi,18,4.8,1200,English;Hindi,Yes
+Dr. T. Nair,General Physician,Delhi,8,4.2,450,English;Hindi,Yes
+Dr. M. Khan,Cardiologist,Kolkata,16,4.7,1200,English;Hindi,Yes
+Dr. B. Ghosh,Dermatologist,Kolkata,7,4.2,600,English;Bengali;Hindi,Yes
